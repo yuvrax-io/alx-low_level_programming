@@ -6,7 +6,7 @@
  * @a: number a
  * @b: number b
  *
- * Return: return result of adding 
+ * Return: return result of adding
 */
 
 int mul(int a, int b)
