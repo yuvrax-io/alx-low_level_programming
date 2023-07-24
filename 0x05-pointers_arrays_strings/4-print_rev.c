@@ -6,10 +6,9 @@
  * Return: reverse string void
  */
 
-void print_rev(char *s)
+void print_rev(char *strg)
 {
-	int count = 0;
-	int i;
+	int count = 0, i;
 
 	while (strg[count] != '\0')
 	{
