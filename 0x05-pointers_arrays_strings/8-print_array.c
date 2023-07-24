@@ -7,7 +7,7 @@
  * @nu: The number of elements to be printed.
  */
 
-void print_array(int *arr, int n)
+void print_array(int *arr, int nu)
 {
 	int i;
 
