@@ -9,5 +9,5 @@
 
 void reset_to_98(int *nu)
 {
-	*nu = 998;
+	*nu = 98;
 }
