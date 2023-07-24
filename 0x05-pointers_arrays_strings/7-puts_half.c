@@ -8,7 +8,7 @@
 * Return: void print half
 */
 
-void puts_half(char *str)
+void puts_half(char *strg)
 {
 	int index = 0, i = 0, n;
 
