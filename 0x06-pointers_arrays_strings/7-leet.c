@@ -23,13 +23,13 @@ char *leet(char *s)
 		len = 0;
 		while (len < 10)
 		{
-			if (letters[len] == s[Count])
+			if (letters[len] == s[count])
 			{
 				s[count] = nums[len];
 			}
 			len++;
 		}
-		Count++;
+		count++;
 	}
 	return (s);
 }
